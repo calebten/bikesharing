@@ -13,7 +13,7 @@ Various charts and graphs were created in tableau to perform the analysis. The r
 
 **Rides by Gender**
 
-![Gender](https://github.com/calebten/bikesharing/blob/main/Images/Gender_Total.PNG)
+![Gender](https://github.com/calebten/bikesharing/blob/main/Images/Gender_Total.png)
 
 There are more male riders compared to female riders
 
