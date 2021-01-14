@@ -5,7 +5,7 @@
 The purpose of this project is to analyse the ride share data from New York city for August 2019. The analysis is performed using tableau to gain useful insights into the ride share business.
 
 The results can be found in the below link
-[Tableau_Link](https://public.tableau.com/views/Module14Challenge_16105873363620/Module14ChallengeStory?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link)
+[Tableau_Link](https://public.tableau.com/profile/caleb.tenhuisen#!/vizhome/Module14Challenge_16105873363620/Module14ChallengeStory?publish=yes)
 
 ## Results
 
